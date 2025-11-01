@@ -1,0 +1,14 @@
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\CsharpTemelKurs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\CsharpTemelKurs.AssemblyInfoInputs.cache
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\CsharpTemelKurs.AssemblyInfo.cs
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\CsharpTemelKurs.csproj.CoreCompileInputs.cache
+E:\Egitim\CsharpTemelKurs\bin\Debug\net8.0\CsharpTemelKurs.exe
+E:\Egitim\CsharpTemelKurs\bin\Debug\net8.0\CsharpTemelKurs.deps.json
+E:\Egitim\CsharpTemelKurs\bin\Debug\net8.0\CsharpTemelKurs.runtimeconfig.json
+E:\Egitim\CsharpTemelKurs\bin\Debug\net8.0\CsharpTemelKurs.dll
+E:\Egitim\CsharpTemelKurs\bin\Debug\net8.0\CsharpTemelKurs.pdb
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\CsharpTemelKurs.dll
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\refint\CsharpTemelKurs.dll
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\CsharpTemelKurs.pdb
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\CsharpTemelKurs.genruntimeconfig.cache
+E:\Egitim\CsharpTemelKurs\obj\Debug\net8.0\ref\CsharpTemelKurs.dll

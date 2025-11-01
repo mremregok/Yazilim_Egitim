@@ -1,0 +1,14 @@
+E:\Egitim\CSharpTemelKonseptler\bin\Debug\net8.0\CSharpTemelKonseptler.exe
+E:\Egitim\CSharpTemelKonseptler\bin\Debug\net8.0\CSharpTemelKonseptler.deps.json
+E:\Egitim\CSharpTemelKonseptler\bin\Debug\net8.0\CSharpTemelKonseptler.runtimeconfig.json
+E:\Egitim\CSharpTemelKonseptler\bin\Debug\net8.0\CSharpTemelKonseptler.dll
+E:\Egitim\CSharpTemelKonseptler\bin\Debug\net8.0\CSharpTemelKonseptler.pdb
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\CSharpTemelKonseptler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\CSharpTemelKonseptler.AssemblyInfoInputs.cache
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\CSharpTemelKonseptler.AssemblyInfo.cs
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\CSharpTemelKonseptler.csproj.CoreCompileInputs.cache
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\CSharpTemelKonseptler.dll
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\refint\CSharpTemelKonseptler.dll
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\CSharpTemelKonseptler.pdb
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\CSharpTemelKonseptler.genruntimeconfig.cache
+E:\Egitim\CSharpTemelKonseptler\obj\Debug\net8.0\ref\CSharpTemelKonseptler.dll
